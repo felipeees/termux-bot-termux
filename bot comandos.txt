@@ -1,0 +1,9 @@
+pkg install git nodejs -y
+
+git clone https://github.com/fdciabdul/termux-whatsapp-bot
+
+cd termux-whatsapp-bot
+
+bash install.sh
+
+node index.js
